@@ -134,7 +134,7 @@ export default function Home() {
                 </div>
               </div>
             </div>
-            <button className='text-white text-lg bg-dark-gray-blue rounded-full p-3'>Continue</button>
+            <button className='text-white text-lg bg-dark-gray-blue rounded-full p-3 hover:bg-gradient-to-b hover:from-light-slate-blue hover:to-light-royal-blue'>Continue</button>
           </section>
         </div>
       </div>
